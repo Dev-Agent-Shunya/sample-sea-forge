@@ -1,0 +1,20 @@
+{
+  "task_code": "SFG00",
+  "project_name": "SeaForge",
+  "phase_ranges": {
+    "planning_min": 0,
+    "planning_max": 99,
+    "development_min": 100,
+    "development_max": 999
+  },
+  "github": {
+    "repo_url": "https://github.com/Dev-Agent-Shunya/sample-sea-forge",
+    "main_branch": "main",
+    "origin": "origin"
+  },
+  "dashboard": {
+    "port": 8080,
+    "refresh_interval": 5
+  },
+  "created_at": "2026-03-11T11:57:23.929524"
+}
